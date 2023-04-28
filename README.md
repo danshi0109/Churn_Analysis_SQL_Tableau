@@ -14,5 +14,12 @@ Churn Analysis Questions:
 
 
 
-- kaggle dataset refernece https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+
+
+
+
+
+
+## References
+kaggle dataset refernece https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
